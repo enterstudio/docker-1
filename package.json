@@ -13,7 +13,7 @@
     "highlight.js": "^9.3.0",
     "less": "^2.5.1",
     "markdown-it": "^6.0.1",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "repeating": "^2.0.1",
     "strip-indent": "^2.0.0",
     "toc": "^0.4.0",
